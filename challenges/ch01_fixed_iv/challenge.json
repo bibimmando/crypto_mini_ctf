@@ -1,0 +1,7 @@
+{
+  "mode": "AES-256-CTR",
+  "iv": "00000000000000000000000000000000",
+  "known_plaintext": "club-demo-known-message:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "known_ciphertext": "8b78e3551a71a704651e56559efa97de5d979a1eb6a9359cf0464a362772c470c01c79c96bd3e31bdf79bfae24a0dac8437f7ab0e7c767f3252f2dcdfd48d5f103",
+  "flag_ciphertext": "8e78f7504c7ba71f6f41624994f88a966f919d1f88a726db"
+}

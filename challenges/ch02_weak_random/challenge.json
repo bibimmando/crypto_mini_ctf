@@ -1,0 +1,7 @@
+{
+  "mode": "AES-256-GCM",
+  "approx_unix_time": 1792119600,
+  "search_window_seconds": 60,
+  "nonce": "0964476f018254e5ee06bbff",
+  "ciphertext": "cbef6d45259709a026040f35596a08b6d23a62d50fbf44cbbfba0cfd33af202e2742f5995b9964dcc735f7b6"
+}
